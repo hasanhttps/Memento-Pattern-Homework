@@ -1,0 +1,15 @@
+C:\Users\hasan\WPF Projects\Memento Pattern Homework\Memento Pattern Homework\bin\Debug\net6.0\Memento Pattern Homework.exe
+C:\Users\hasan\WPF Projects\Memento Pattern Homework\Memento Pattern Homework\bin\Debug\net6.0\Memento Pattern Homework.deps.json
+C:\Users\hasan\WPF Projects\Memento Pattern Homework\Memento Pattern Homework\bin\Debug\net6.0\Memento Pattern Homework.runtimeconfig.json
+C:\Users\hasan\WPF Projects\Memento Pattern Homework\Memento Pattern Homework\bin\Debug\net6.0\Memento Pattern Homework.dll
+C:\Users\hasan\WPF Projects\Memento Pattern Homework\Memento Pattern Homework\bin\Debug\net6.0\Memento Pattern Homework.pdb
+C:\Users\hasan\WPF Projects\Memento Pattern Homework\Memento Pattern Homework\obj\Debug\net6.0\Memento Pattern Homework.csproj.AssemblyReference.cache
+C:\Users\hasan\WPF Projects\Memento Pattern Homework\Memento Pattern Homework\obj\Debug\net6.0\Memento Pattern Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\WPF Projects\Memento Pattern Homework\Memento Pattern Homework\obj\Debug\net6.0\Memento Pattern Homework.AssemblyInfoInputs.cache
+C:\Users\hasan\WPF Projects\Memento Pattern Homework\Memento Pattern Homework\obj\Debug\net6.0\Memento Pattern Homework.AssemblyInfo.cs
+C:\Users\hasan\WPF Projects\Memento Pattern Homework\Memento Pattern Homework\obj\Debug\net6.0\Memento Pattern Homework.csproj.CoreCompileInputs.cache
+C:\Users\hasan\WPF Projects\Memento Pattern Homework\Memento Pattern Homework\obj\Debug\net6.0\Memento Pattern Homework.dll
+C:\Users\hasan\WPF Projects\Memento Pattern Homework\Memento Pattern Homework\obj\Debug\net6.0\refint\Memento Pattern Homework.dll
+C:\Users\hasan\WPF Projects\Memento Pattern Homework\Memento Pattern Homework\obj\Debug\net6.0\Memento Pattern Homework.pdb
+C:\Users\hasan\WPF Projects\Memento Pattern Homework\Memento Pattern Homework\obj\Debug\net6.0\Memento Pattern Homework.genruntimeconfig.cache
+C:\Users\hasan\WPF Projects\Memento Pattern Homework\Memento Pattern Homework\obj\Debug\net6.0\ref\Memento Pattern Homework.dll
